@@ -1,0 +1,1 @@
+web: sh steup.sh && streamlit run multiple_disease_prediction_webapp.py 

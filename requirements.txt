@@ -1,0 +1,5 @@
+numpy
+pickle
+streamlit
+scikit-learn
+protobuf==3.20.1
